@@ -1,0 +1,3 @@
+import specialname 
+
+print("Hello")
